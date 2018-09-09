@@ -6,6 +6,7 @@
 
 function main()
 {
+    //variable call name
     var name ='jason';
 
     console.log("Hello, " + name + "!");
